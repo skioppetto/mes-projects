@@ -1,0 +1,5 @@
+--Output from id is not nullable--
+--Output from version is not nullable--
+--Output from publishedDate has default value--
+--Output from description is nullable--
+--Output from durationUOM is nullable--

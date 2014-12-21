@@ -1,0 +1,11 @@
+--Output from test set name--
+--Output from test set description--
+--Output from test set value and uom--
+--Output from test set quantity double value and uom--
+--Output from init the whole object--
+--Output from description should be nullable--
+--Output from quantity should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from name should be not nullable--
+--Output from value should be not nullable--
+--Output from valueUOM should be not nullable--

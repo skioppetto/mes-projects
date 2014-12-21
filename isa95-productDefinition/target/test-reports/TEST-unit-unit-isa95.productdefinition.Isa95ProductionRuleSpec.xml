@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="develop-machine" name="isa95.productdefinition.Isa95ProductionRuleSpec" tests="5" time="0.182" timestamp="2014-12-21T15:00:04">
+  <properties />
+  <testcase classname="isa95.productdefinition.Isa95ProductionRuleSpec" name="id is not nullable" time="0.085" />
+  <testcase classname="isa95.productdefinition.Isa95ProductionRuleSpec" name="version is not nullable" time="0.016" />
+  <testcase classname="isa95.productdefinition.Isa95ProductionRuleSpec" name="publishedDate has default value" time="0.015" />
+  <testcase classname="isa95.productdefinition.Isa95ProductionRuleSpec" name="description is nullable" time="0.013" />
+  <testcase classname="isa95.productdefinition.Isa95ProductionRuleSpec" name="durationUOM is nullable" time="0.014" />
+  <system-out><![CDATA[--Output from id is not nullable--
+--Output from version is not nullable--
+--Output from publishedDate has default value--
+--Output from description is nullable--
+--Output from durationUOM is nullable--
+]]></system-out>
+  <system-err><![CDATA[--Output from id is not nullable--
+--Output from version is not nullable--
+--Output from publishedDate has default value--
+--Output from description is nullable--
+--Output from durationUOM is nullable--
+]]></system-err>
+</testsuite>

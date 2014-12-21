@@ -1,0 +1,25 @@
+Testsuite: isa95.productdefinition.Isa95MaterialSpecificationSpec
+Tests run: 6, Failures: 0, Errors: 0, Time elapsed: 0.14 sec
+------------- Standard Output ---------------
+--Output from test materialUse in list--
+--Output from test materialClass and materialDefinition both null--
+--Output from test materialClass null and materialDefinition not null--
+--Output from test materialClass not null and materialDefinition null--
+--Output from test description null--
+--Output from test quantity and quantityUOM null--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test materialUse in list--
+--Output from test materialClass and materialDefinition both null--
+--Output from test materialClass null and materialDefinition not null--
+--Output from test materialClass not null and materialDefinition null--
+--Output from test description null--
+--Output from test quantity and quantityUOM null--
+------------- ---------------- ---------------
+
+Testcase: test materialUse in list took 0.075 sec
+Testcase: test materialClass and materialDefinition both null took 0.012 sec
+Testcase: test materialClass null and materialDefinition not null took 0.01 sec
+Testcase: test materialClass not null and materialDefinition null took 0.012 sec
+Testcase: test description null took 0.011 sec
+Testcase: test quantity and quantityUOM null took 0.01 sec

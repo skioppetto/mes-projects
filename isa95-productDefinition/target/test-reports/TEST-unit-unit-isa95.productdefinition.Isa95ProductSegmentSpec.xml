@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="develop-machine" name="isa95.productdefinition.Isa95ProductSegmentSpec" tests="3" time="0.494" timestamp="2014-12-21T15:00:03">
+  <properties />
+  <testcase classname="isa95.productdefinition.Isa95ProductSegmentSpec" name="test id is not nullable" time="0.45" />
+  <testcase classname="isa95.productdefinition.Isa95ProductSegmentSpec" name="test description is nullable" time="0.016" />
+  <testcase classname="isa95.productdefinition.Isa95ProductSegmentSpec" name="test duration is nullable" time="0.011" />
+  <system-out><![CDATA[--Output from test id is not nullable--
+--Output from test description is nullable--
+--Output from test duration is nullable--
+]]></system-out>
+  <system-err><![CDATA[--Output from test id is not nullable--
+--Output from test description is nullable--
+--Output from test duration is nullable--
+]]></system-err>
+</testsuite>

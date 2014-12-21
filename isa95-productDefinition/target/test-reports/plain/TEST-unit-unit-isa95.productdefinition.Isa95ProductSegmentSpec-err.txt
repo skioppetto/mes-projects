@@ -1,0 +1,3 @@
+--Output from test id is not nullable--
+--Output from test description is nullable--
+--Output from test duration is nullable--

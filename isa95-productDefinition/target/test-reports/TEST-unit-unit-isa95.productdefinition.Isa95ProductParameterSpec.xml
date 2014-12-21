@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="develop-machine" name="isa95.productdefinition.Isa95ProductParameterSpec" tests="8" time="0.182" timestamp="2014-12-21T15:00:03">
+  <properties />
+  <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="test set name" time="0.079" />
+  <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="test set description" time="0.009" />
+  <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="test set value and uom" time="0.012" />
+  <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="init the whole object" time="0.01" />
+  <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="description should be nullable" time="0.014" />
+  <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="name should be not nullable" time="0.012" />
+  <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="value should be not nullable" time="0.011" />
+  <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="valueUOM should be not nullable" time="0.013" />
+  <system-out><![CDATA[--Output from test set name--
+--Output from test set description--
+--Output from test set value and uom--
+--Output from init the whole object--
+--Output from description should be nullable--
+--Output from name should be not nullable--
+--Output from value should be not nullable--
+--Output from valueUOM should be not nullable--
+]]></system-out>
+  <system-err><![CDATA[--Output from test set name--
+--Output from test set description--
+--Output from test set value and uom--
+--Output from init the whole object--
+--Output from description should be nullable--
+--Output from name should be not nullable--
+--Output from value should be not nullable--
+--Output from valueUOM should be not nullable--
+]]></system-err>
+</testsuite>

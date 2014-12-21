@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="develop-machine" name="isa95.productdefinition.Isa95MaterialSpecificationSpec" tests="6" time="0.14" timestamp="2014-12-21T15:00:04">
+  <properties />
+  <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationSpec" name="test materialUse in list" time="0.075" />
+  <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationSpec" name="test materialClass and materialDefinition both null" time="0.012" />
+  <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationSpec" name="test materialClass null and materialDefinition not null" time="0.01" />
+  <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationSpec" name="test materialClass not null and materialDefinition null" time="0.012" />
+  <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationSpec" name="test description null" time="0.011" />
+  <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationSpec" name="test quantity and quantityUOM null" time="0.01" />
+  <system-out><![CDATA[--Output from test materialUse in list--
+--Output from test materialClass and materialDefinition both null--
+--Output from test materialClass null and materialDefinition not null--
+--Output from test materialClass not null and materialDefinition null--
+--Output from test description null--
+--Output from test quantity and quantityUOM null--
+]]></system-out>
+  <system-err><![CDATA[--Output from test materialUse in list--
+--Output from test materialClass and materialDefinition both null--
+--Output from test materialClass null and materialDefinition not null--
+--Output from test materialClass not null and materialDefinition null--
+--Output from test description null--
+--Output from test quantity and quantityUOM null--
+]]></system-err>
+</testsuite>

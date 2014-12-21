@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="develop-machine" id="0" name="Isa95EquipmentSpecificationPropertySpec" package="isa95.productdefinition" tests="11" time="0.18" timestamp="2014-12-21T15:00:04">
+      <properties />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationPropertySpec" name="test set name" time="0.061" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationPropertySpec" name="test set description" time="0.009" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationPropertySpec" name="test set value and uom" time="0.009" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationPropertySpec" name="test set quantity double value and uom" time="0.01" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationPropertySpec" name="init the whole object" time="0.009" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationPropertySpec" name="description should be nullable" time="0.012" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationPropertySpec" name="quantity should be nullable" time="0.015" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationPropertySpec" name="quantity and quantityUOM should be nullable" time="0.013" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationPropertySpec" name="name should be not nullable" time="0.012" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationPropertySpec" name="value should be not nullable" time="0.009" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationPropertySpec" name="valueUOM should be not nullable" time="0.009" />
+
+      <system-out><![CDATA[--Output from test set name--
+--Output from test set description--
+--Output from test set value and uom--
+--Output from test set quantity double value and uom--
+--Output from init the whole object--
+--Output from description should be nullable--
+--Output from quantity should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from name should be not nullable--
+--Output from value should be not nullable--
+--Output from valueUOM should be not nullable--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test set name--
+--Output from test set description--
+--Output from test set value and uom--
+--Output from test set quantity double value and uom--
+--Output from init the whole object--
+--Output from description should be nullable--
+--Output from quantity should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from name should be not nullable--
+--Output from value should be not nullable--
+--Output from valueUOM should be not nullable--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="develop-machine" id="1" name="Isa95EquipmentSpecificationSpec" package="isa95.productdefinition" tests="5" time="0.134" timestamp="2014-12-21T15:00:05">
+      <properties />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationSpec" name="description should be nullable" time="0.067" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationSpec" name="equipment should be nullable" time="0.026" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationSpec" name="equipmentClass should be nullable" time="0.01" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationSpec" name="quantity and quantityUOM should be nullable" time="0.01" />
+
+      <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationSpec" name="equipment and equipmentClass should not be both nullable" time="0.011" />
+
+      <system-out><![CDATA[--Output from description should be nullable--
+--Output from equipment should be nullable--
+--Output from equipmentClass should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from equipment and equipmentClass should not be both nullable--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from description should be nullable--
+--Output from equipment should be nullable--
+--Output from equipmentClass should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from equipment and equipmentClass should not be both nullable--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="develop-machine" id="2" name="Isa95MaterialSpecificationPropertySpec" package="isa95.productdefinition" tests="11" time="0.262" timestamp="2014-12-21T15:00:04">
+      <properties />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationPropertySpec" name="test set name" time="0.123" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationPropertySpec" name="test set description" time="0.014" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationPropertySpec" name="test set value and uom" time="0.014" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationPropertySpec" name="test set quantity double value and uom" time="0.012" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationPropertySpec" name="init the whole object" time="0.015" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationPropertySpec" name="description should be nullable" time="0.012" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationPropertySpec" name="quantity should be nullable" time="0.009" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationPropertySpec" name="quantity and quantityUOM should be nullable" time="0.011" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationPropertySpec" name="name should be not nullable" time="0.009" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationPropertySpec" name="value should be not nullable" time="0.009" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationPropertySpec" name="valueUOM should be not nullable" time="0.015" />
+
+      <system-out><![CDATA[--Output from test set name--
+--Output from test set description--
+--Output from test set value and uom--
+--Output from test set quantity double value and uom--
+--Output from init the whole object--
+--Output from description should be nullable--
+--Output from quantity should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from name should be not nullable--
+--Output from value should be not nullable--
+--Output from valueUOM should be not nullable--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test set name--
+--Output from test set description--
+--Output from test set value and uom--
+--Output from test set quantity double value and uom--
+--Output from init the whole object--
+--Output from description should be nullable--
+--Output from quantity should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from name should be not nullable--
+--Output from value should be not nullable--
+--Output from valueUOM should be not nullable--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="develop-machine" id="3" name="Isa95MaterialSpecificationSpec" package="isa95.productdefinition" tests="6" time="0.14" timestamp="2014-12-21T15:00:04">
+      <properties />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationSpec" name="test materialUse in list" time="0.075" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationSpec" name="test materialClass and materialDefinition both null" time="0.012" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationSpec" name="test materialClass null and materialDefinition not null" time="0.01" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationSpec" name="test materialClass not null and materialDefinition null" time="0.012" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationSpec" name="test description null" time="0.011" />
+
+      <testcase classname="isa95.productdefinition.Isa95MaterialSpecificationSpec" name="test quantity and quantityUOM null" time="0.01" />
+
+      <system-out><![CDATA[--Output from test materialUse in list--
+--Output from test materialClass and materialDefinition both null--
+--Output from test materialClass null and materialDefinition not null--
+--Output from test materialClass not null and materialDefinition null--
+--Output from test description null--
+--Output from test quantity and quantityUOM null--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test materialUse in list--
+--Output from test materialClass and materialDefinition both null--
+--Output from test materialClass null and materialDefinition not null--
+--Output from test materialClass not null and materialDefinition null--
+--Output from test description null--
+--Output from test quantity and quantityUOM null--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="develop-machine" id="4" name="Isa95PersonnelSpecificationPropertySpec" package="isa95.productdefinition" tests="11" time="0.178" timestamp="2014-12-21T15:00:04">
+      <properties />
+
+      <testcase classname="isa95.productdefinition.Isa95PersonnelSpecificationPropertySpec" name="test set name" time="0.063" />
+
+      <testcase classname="isa95.productdefinition.Isa95PersonnelSpecificationPropertySpec" name="test set description" time="0.008" />
+
+      <testcase classname="isa95.productdefinition.Isa95PersonnelSpecificationPropertySpec" name="test set value and uom" time="0.008" />
+
+      <testcase classname="isa95.productdefinition.Isa95PersonnelSpecificationPropertySpec" name="test set quantity double value and uom" time="0.01" />
+
+      <testcase classname="isa95.productdefinition.Isa95PersonnelSpecificationPropertySpec" name="init the whole object" time="0.009" />
+
+      <testcase classname="isa95.productdefinition.Isa95PersonnelSpecificationPropertySpec" name="description should be nullable" time="0.012" />
+
+      <testcase classname="isa95.productdefinition.Isa95PersonnelSpecificationPropertySpec" name="quantity should be nullable" time="0.01" />
+
+      <testcase classname="isa95.productdefinition.Isa95PersonnelSpecificationPropertySpec" name="quantity and quantityUOM should be nullable" time="0.01" />
+
+      <testcase classname="isa95.productdefinition.Isa95PersonnelSpecificationPropertySpec" name="name should be not nullable" time="0.012" />
+
+      <testcase classname="isa95.productdefinition.Isa95PersonnelSpecificationPropertySpec" name="value should be not nullable" time="0.011" />
+
+      <testcase classname="isa95.productdefinition.Isa95PersonnelSpecificationPropertySpec" name="valueUOM should be not nullable" time="0.011" />
+
+      <system-out><![CDATA[--Output from test set name--
+--Output from test set description--
+--Output from test set value and uom--
+--Output from test set quantity double value and uom--
+--Output from init the whole object--
+--Output from description should be nullable--
+--Output from quantity should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from name should be not nullable--
+--Output from value should be not nullable--
+--Output from valueUOM should be not nullable--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test set name--
+--Output from test set description--
+--Output from test set value and uom--
+--Output from test set quantity double value and uom--
+--Output from init the whole object--
+--Output from description should be nullable--
+--Output from quantity should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from name should be not nullable--
+--Output from value should be not nullable--
+--Output from valueUOM should be not nullable--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="develop-machine" id="5" name="Isa95ProductParameterSpec" package="isa95.productdefinition" tests="8" time="0.182" timestamp="2014-12-21T15:00:03">
+      <properties />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="test set name" time="0.079" />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="test set description" time="0.009" />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="test set value and uom" time="0.012" />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="init the whole object" time="0.01" />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="description should be nullable" time="0.014" />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="name should be not nullable" time="0.012" />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="value should be not nullable" time="0.011" />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductParameterSpec" name="valueUOM should be not nullable" time="0.013" />
+
+      <system-out><![CDATA[--Output from test set name--
+--Output from test set description--
+--Output from test set value and uom--
+--Output from init the whole object--
+--Output from description should be nullable--
+--Output from name should be not nullable--
+--Output from value should be not nullable--
+--Output from valueUOM should be not nullable--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test set name--
+--Output from test set description--
+--Output from test set value and uom--
+--Output from init the whole object--
+--Output from description should be nullable--
+--Output from name should be not nullable--
+--Output from value should be not nullable--
+--Output from valueUOM should be not nullable--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="develop-machine" id="6" name="Isa95ProductSegmentSpec" package="isa95.productdefinition" tests="3" time="0.494" timestamp="2014-12-21T15:00:03">
+      <properties />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductSegmentSpec" name="test id is not nullable" time="0.45" />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductSegmentSpec" name="test description is nullable" time="0.016" />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductSegmentSpec" name="test duration is nullable" time="0.011" />
+
+      <system-out><![CDATA[--Output from test id is not nullable--
+--Output from test description is nullable--
+--Output from test duration is nullable--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test id is not nullable--
+--Output from test description is nullable--
+--Output from test duration is nullable--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="develop-machine" id="7" name="Isa95ProductionRuleSpec" package="isa95.productdefinition" tests="5" time="0.182" timestamp="2014-12-21T15:00:04">
+      <properties />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductionRuleSpec" name="id is not nullable" time="0.085" />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductionRuleSpec" name="version is not nullable" time="0.016" />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductionRuleSpec" name="publishedDate has default value" time="0.015" />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductionRuleSpec" name="description is nullable" time="0.013" />
+
+      <testcase classname="isa95.productdefinition.Isa95ProductionRuleSpec" name="durationUOM is nullable" time="0.014" />
+
+      <system-out><![CDATA[--Output from id is not nullable--
+--Output from version is not nullable--
+--Output from publishedDate has default value--
+--Output from description is nullable--
+--Output from durationUOM is nullable--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from id is not nullable--
+--Output from version is not nullable--
+--Output from publishedDate has default value--
+--Output from description is nullable--
+--Output from durationUOM is nullable--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

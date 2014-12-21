@@ -1,0 +1,5 @@
+--Output from description should be nullable--
+--Output from equipment should be nullable--
+--Output from equipmentClass should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from equipment and equipmentClass should not be both nullable--

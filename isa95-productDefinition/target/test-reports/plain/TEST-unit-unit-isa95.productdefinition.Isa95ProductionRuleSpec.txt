@@ -1,0 +1,22 @@
+Testsuite: isa95.productdefinition.Isa95ProductionRuleSpec
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0.182 sec
+------------- Standard Output ---------------
+--Output from id is not nullable--
+--Output from version is not nullable--
+--Output from publishedDate has default value--
+--Output from description is nullable--
+--Output from durationUOM is nullable--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from id is not nullable--
+--Output from version is not nullable--
+--Output from publishedDate has default value--
+--Output from description is nullable--
+--Output from durationUOM is nullable--
+------------- ---------------- ---------------
+
+Testcase: id is not nullable took 0.085 sec
+Testcase: version is not nullable took 0.016 sec
+Testcase: publishedDate has default value took 0.015 sec
+Testcase: description is nullable took 0.013 sec
+Testcase: durationUOM is nullable took 0.014 sec

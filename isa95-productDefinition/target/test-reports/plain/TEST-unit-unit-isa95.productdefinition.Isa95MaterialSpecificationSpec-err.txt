@@ -1,0 +1,6 @@
+--Output from test materialUse in list--
+--Output from test materialClass and materialDefinition both null--
+--Output from test materialClass null and materialDefinition not null--
+--Output from test materialClass not null and materialDefinition null--
+--Output from test description null--
+--Output from test quantity and quantityUOM null--

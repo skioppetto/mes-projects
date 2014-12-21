@@ -1,0 +1,31 @@
+Testsuite: isa95.productdefinition.Isa95ProductParameterSpec
+Tests run: 8, Failures: 0, Errors: 0, Time elapsed: 0.182 sec
+------------- Standard Output ---------------
+--Output from test set name--
+--Output from test set description--
+--Output from test set value and uom--
+--Output from init the whole object--
+--Output from description should be nullable--
+--Output from name should be not nullable--
+--Output from value should be not nullable--
+--Output from valueUOM should be not nullable--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test set name--
+--Output from test set description--
+--Output from test set value and uom--
+--Output from init the whole object--
+--Output from description should be nullable--
+--Output from name should be not nullable--
+--Output from value should be not nullable--
+--Output from valueUOM should be not nullable--
+------------- ---------------- ---------------
+
+Testcase: test set name took 0.079 sec
+Testcase: test set description took 0.009 sec
+Testcase: test set value and uom took 0.012 sec
+Testcase: init the whole object took 0.01 sec
+Testcase: description should be nullable took 0.014 sec
+Testcase: name should be not nullable took 0.012 sec
+Testcase: value should be not nullable took 0.011 sec
+Testcase: valueUOM should be not nullable took 0.013 sec

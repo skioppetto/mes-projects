@@ -1,0 +1,22 @@
+Testsuite: isa95.productdefinition.Isa95EquipmentSpecificationSpec
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0.134 sec
+------------- Standard Output ---------------
+--Output from description should be nullable--
+--Output from equipment should be nullable--
+--Output from equipmentClass should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from equipment and equipmentClass should not be both nullable--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from description should be nullable--
+--Output from equipment should be nullable--
+--Output from equipmentClass should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from equipment and equipmentClass should not be both nullable--
+------------- ---------------- ---------------
+
+Testcase: description should be nullable took 0.067 sec
+Testcase: equipment should be nullable took 0.027 sec
+Testcase: equipmentClass should be nullable took 0.01 sec
+Testcase: quantity and quantityUOM should be nullable took 0.01 sec
+Testcase: equipment and equipmentClass should not be both nullable took 0.011 sec

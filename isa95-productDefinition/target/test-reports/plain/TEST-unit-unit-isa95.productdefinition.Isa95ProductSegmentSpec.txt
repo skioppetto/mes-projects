@@ -1,0 +1,16 @@
+Testsuite: isa95.productdefinition.Isa95ProductSegmentSpec
+Tests run: 3, Failures: 0, Errors: 0, Time elapsed: 0.494 sec
+------------- Standard Output ---------------
+--Output from test id is not nullable--
+--Output from test description is nullable--
+--Output from test duration is nullable--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test id is not nullable--
+--Output from test description is nullable--
+--Output from test duration is nullable--
+------------- ---------------- ---------------
+
+Testcase: test id is not nullable took 0.45 sec
+Testcase: test description is nullable took 0.016 sec
+Testcase: test duration is nullable took 0.011 sec

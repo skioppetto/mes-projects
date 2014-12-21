@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="develop-machine" name="isa95.productdefinition.Isa95EquipmentSpecificationSpec" tests="5" time="0.134" timestamp="2014-12-21T15:00:05">
+  <properties />
+  <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationSpec" name="description should be nullable" time="0.067" />
+  <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationSpec" name="equipment should be nullable" time="0.026" />
+  <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationSpec" name="equipmentClass should be nullable" time="0.01" />
+  <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationSpec" name="quantity and quantityUOM should be nullable" time="0.01" />
+  <testcase classname="isa95.productdefinition.Isa95EquipmentSpecificationSpec" name="equipment and equipmentClass should not be both nullable" time="0.011" />
+  <system-out><![CDATA[--Output from description should be nullable--
+--Output from equipment should be nullable--
+--Output from equipmentClass should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from equipment and equipmentClass should not be both nullable--
+]]></system-out>
+  <system-err><![CDATA[--Output from description should be nullable--
+--Output from equipment should be nullable--
+--Output from equipmentClass should be nullable--
+--Output from quantity and quantityUOM should be nullable--
+--Output from equipment and equipmentClass should not be both nullable--
+]]></system-err>
+</testsuite>
